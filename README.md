@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tests-43%20passing-brightgreen" alt="tests">
+  <a href="https://github.com/Solitud1nem/mpp-scanner/actions/workflows/ci.yml"><img src="https://github.com/Solitud1nem/mpp-scanner/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/python-3.12-blue" alt="python">
   <img src="https://img.shields.io/badge/solidity-0.8.20-363636" alt="solidity">
   <img src="https://img.shields.io/badge/contract-deployed-success" alt="contract">
