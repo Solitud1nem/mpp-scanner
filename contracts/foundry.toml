@@ -1,0 +1,12 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc_version = "0.8.20"
+
+[profile.default.fmt]
+line_length = 100
+
+[rpc_endpoints]
+tempo = "https://rpc.tempo.xyz"
+moderato = "https://rpc.moderato.tempo.xyz"
